@@ -1,0 +1,11 @@
+Task5 varianta LocalTime 
+
+Leaving	    01:44:44
+Breakfast	    02:58:08
+Sleeping    05:03:31
+Snack	    00:06:01
+Grooming	    02:40:42
+Showering	    01:34:09
+Spare_Time/TV    05:28:55
+Toileting	    02:20:34
+Lunch    05:13:31

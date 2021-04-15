@@ -1,0 +1,3 @@
+Uneori am niste probleme in ceea ce priveste jarFile -ul.
+Cand incerc sa rulez comanda java -jar Tema5.jar primesc o eroare de genul: Invalid jarFile.
+Daca se ruleaza comanda java -cp Tema5.jar Main functioneaza fara probleme.

@@ -1,0 +1,11 @@
+Task5 varianta Integer 
+
+Leaving	    1658
+Breakfast	    171
+Sleeping    7856
+Snack	    4
+Grooming	    139
+Showering	    85
+Spare_Time/TV    8510
+Toileting	    124
+Lunch    310
